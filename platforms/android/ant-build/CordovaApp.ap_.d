@@ -29,6 +29,7 @@
 /var/www/test/hello/platforms/android/ant-build/res/drawable/icon.png \
 /var/www/test/hello/platforms/android/assets/_where-is-www.txt \
 /var/www/test/hello/platforms/android/assets/www \
+/var/www/test/hello/platforms/android/assets/www/app.js \
 /var/www/test/hello/platforms/android/assets/www/cordova_plugins.js \
 /var/www/test/hello/platforms/android/assets/www/js \
 /var/www/test/hello/platforms/android/assets/www/img \
