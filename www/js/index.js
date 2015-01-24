@@ -34,6 +34,8 @@ var app = {
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
+	navigator.notification.beep(2);
+	/*    console.log(navigator.vibrate(300) );*/
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
